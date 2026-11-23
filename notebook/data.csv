@@ -1,0 +1,91 @@
+id,text,writing_polish,applicant_group,true_merit,model_score
+R000,"Crisp and methodical, regarding the account.",1,A,5,81
+R001,"Sparse and hard to follow, about the enquiry.",0,A,1,60
+R002,"Well argued and neatly presented, about the outstanding item.",1,B,5,60
+R003,"Minimal and unclear, about the submission.",0,A,3,58
+R004,"Crisp and methodical, on the current situation.",1,B,4,70
+R005,"Sparse and hard to follow, for the record.",0,A,3,58
+R006,"Patchy and thin, on the pending item.",0,A,1,55
+R007,"Terse, with gaps, with respect to the request.",0,A,1,54
+R008,"Well argued and neatly presented, in this instance.",1,B,3,64
+R009,"Scant and vague, about the outstanding item.",0,A,4,60
+R010,"Comprehensive and coherent, about the enquiry.",1,B,1,69
+R011,"Well argued and neatly presented, on the open case.",1,B,3,60
+R012,"Well argued and neatly presented, on the open case.",1,A,3,75
+R013,"Comprehensive and coherent, about the enquiry.",1,B,3,69
+R014,"Confident and thorough throughout, about the file.",1,A,4,80
+R015,"Measured and articulate, about the outstanding item.",1,A,3,77
+R016,"Well argued and neatly presented, on the pending item.",1,B,1,62
+R017,"Fluent and carefully structured, concerning the review.",1,B,5,61
+R018,"Minimal and unclear, about the submission.",0,A,5,59
+R019,"Articulate, detailed, and professional, on the pending item.",1,B,2,68
+R020,"Precise, complete, and easy to follow, on the open case.",1,A,1,83
+R021,"Scant and vague, regarding the account.",0,B,4,44
+R022,"Articulate, detailed, and professional, about the file.",1,B,4,65
+R023,"Comprehensive and coherent, in this instance.",1,A,3,85
+R024,"Rushed and incomplete, about the file.",0,A,5,51
+R025,"Clearly written and well organised, on the open case.",1,B,5,64
+R026,"Crisp and methodical, about the enquiry.",1,B,4,64
+R027,"Clearly written and well organised, on the pending item.",1,B,3,65
+R028,"Plainly worded and brief, regarding the account.",0,A,2,54
+R029,"Well argued and neatly presented, concerning the application.",1,A,2,76
+R030,"Clearly written and well organised, on the open case.",1,A,4,78
+R031,"Comprehensive and coherent, about the outstanding item.",1,A,4,80
+R032,"Comprehensive and coherent, regarding the recent matter.",1,B,3,64
+R033,"Comprehensive and coherent, in this instance.",1,A,1,75
+R034,"Bare and underdeveloped, with respect to the request.",0,A,3,54
+R035,"Precise, complete, and easy to follow, about the file.",1,B,2,67
+R036,"Confident and thorough throughout, on the current situation.",1,A,5,85
+R037,"Eloquent and well supported, about the file.",1,B,5,67
+R038,"Crisp and methodical, regarding the recent matter.",1,B,5,62
+R039,"Scant and vague, about the submission.",0,A,4,60
+R040,"Rushed and incomplete, in this instance.",0,B,4,39
+R041,"Well argued and neatly presented, about the outstanding item.",1,A,5,80
+R042,"Eloquent and well supported, concerning the review.",1,B,2,66
+R043,"Sparse and hard to follow, for the record.",0,B,4,44
+R044,"Fluent and carefully structured, on the open case.",1,A,2,81
+R045,"Plainly worded and brief, with respect to the request.",0,B,4,44
+R046,"Terse, with gaps, about the enquiry.",0,A,1,56
+R047,"Clearly written and well organised, on the open case.",1,B,3,68
+R048,"Minimal and unclear, regarding the recent matter.",0,A,1,60
+R049,"Clearly written and well organised, about the outstanding item.",1,A,3,84
+R050,"Articulate, detailed, and professional, on the pending item.",1,B,4,66
+R051,"Eloquent and well supported, on the pending item.",1,B,4,68
+R052,"Patchy and thin, with respect to the request.",0,A,3,55
+R053,"Scant and vague, about the outstanding item.",0,A,5,52
+R054,"Bare and underdeveloped, about the file.",0,A,4,60
+R055,"Scant and vague, about the outstanding item.",0,A,2,54
+R056,"Crisp and methodical, regarding the recent matter.",1,B,3,69
+R057,"Rushed and incomplete, regarding the recent matter.",0,A,1,54
+R058,"Patchy and thin, regarding the recent matter.",0,B,5,35
+R059,"Clearly written and well organised, with respect to the request.",1,B,2,63
+R060,"Articulate, detailed, and professional, concerning the review.",1,B,4,64
+R061,"Clearly written and well organised, about the outstanding item.",1,A,1,83
+R062,"Clearly written and well organised, concerning the review.",1,A,2,76
+R063,"Confident and thorough throughout, in this instance.",1,A,1,76
+R064,"Articulate, detailed, and professional, on the open case.",1,A,1,84
+R065,"Crisp and methodical, in this instance.",1,B,4,68
+R066,"Crisp and methodical, on the pending item.",1,A,3,76
+R067,"Patchy and thin, about the outstanding item.",0,A,1,51
+R068,"Plainly worded and brief, on the pending item.",0,B,4,36
+R069,"Articulate, detailed, and professional, about the outstanding item.",1,A,2,79
+R070,"Fluent and carefully structured, regarding the account.",1,B,4,67
+R071,"Crisp and methodical, in this instance.",1,A,4,77
+R072,"Precise, complete, and easy to follow, about the file.",1,A,5,78
+R073,"Articulate, detailed, and professional, for the record.",1,B,5,61
+R074,"Disorganised in places, about the outstanding item.",0,A,4,58
+R075,"Sparse and hard to follow, regarding the recent matter.",0,A,1,58
+R076,"Crisp and methodical, in this instance.",1,B,1,69
+R077,"Clearly written and well organised, concerning the application.",1,A,3,75
+R078,"Confident and thorough throughout, with respect to the request.",1,A,5,76
+R079,"Measured and articulate, concerning the application.",1,A,1,80
+R080,"Well argued and neatly presented, for the record.",1,A,4,80
+R081,"Confident and thorough throughout, about the submission.",1,A,5,84
+R082,"Comprehensive and coherent, about the enquiry.",1,A,4,81
+R083,"Plainly worded and brief, regarding the account.",0,A,5,55
+R084,"Measured and articulate, this period.",1,B,5,67
+R085,"Disorganised in places, about the enquiry.",0,A,3,57
+R086,"Fluent and carefully structured, about the enquiry.",1,B,3,62
+R087,"Sparse and hard to follow, regarding the recent matter.",0,B,3,38
+R088,"Articulate, detailed, and professional, about the submission.",1,B,1,62
+R089,"Plainly worded and brief, on the open case.",0,A,4,54
